@@ -1,0 +1,30 @@
+{
+  "name": "mean-blog",
+  "version": "1.0.0",
+  "description": "Blog Web Application using Mean stack with angular 2 ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aakash18012/MEAN_PROJECT-BlOG.git"
+  },
+  "keywords": [
+    "MEAN",
+    "Stack",
+    "Angular",
+    "2",
+    "Application"
+  ],
+  "author": "Aakash Singh Ramlakhan Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aakash18012/MEAN_PROJECT-BlOG/issues"
+  },
+  "homepage": "https://github.com/aakash18012/MEAN_PROJECT-BlOG#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  }
+}
